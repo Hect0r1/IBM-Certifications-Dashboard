@@ -7,6 +7,6 @@ A01634154 | Diego Rosas <br />
 A01639224 | Fausto Alejandro Palma Cervantes <br />
 A01640260 | Alan Ricardo Vilchis Arceo <br /><br />
 
-El proyecto fue diseñado con el objetivo de mostrar en una forma gráfica las certificaciones de los empleados de IBM y comparar las habilidades que estos tienen con aquellos empleados de otras industrias<br />
-Demostración del funcionamiento del proyecto: https://youtu.be/y1_viUDmjTI<br />
+El proyecto fue diseñado con el objetivo de mostrar en una forma gráfica las certificaciones de los empleados de IBM y comparar las habilidades que estos tienen con aquellos empleados de otras industrias<br /><br />
+Demostración del funcionamiento del proyecto: https://youtu.be/y1_viUDmjTI<br /><br />
 Link a la página (la página estará solo disponible por un tiempo ya que se dejara de pagar el servicio de hosting de DigitalOcean): https://ibm-cd.me

@@ -9,4 +9,3 @@ A01640260 | Alan Ricardo Vilchis Arceo <br /><br />
 
 El proyecto fue diseñado con el objetivo de mostrar en una forma gráfica las certificaciones de los empleados de IBM y comparar las habilidades que estos tienen con aquellos empleados de otras industrias<br /><br />
 Demostración del funcionamiento del proyecto: https://youtu.be/y1_viUDmjTI<br /><br />
-Link a la página (estará disponible por un tiempo ya que se dejara de pagar el servicio de hosting de DigitalOcean, y el inicio de sesión solo es posible utilizando cuentas de correo electrónico del Tecnológico de Monterrey y de cuentas de correo electrónico de IBM): https://ibm-cd.me
